@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3755f73-85f9-448f-bf23-dd91b2ee8eab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/example0/Voids.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example0/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,7 @@
     "last_opened_file_path": "D:/Project/demo_ingithub/javaTasks"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Voids">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="ExampleSimple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="example0.ExampleSimple" />
       <module name="javaTasks" />
@@ -46,6 +47,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="javaTasks" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -65,6 +73,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Voids" />
         <item itemvalue="Application.ExampleSimple" />
       </list>
@@ -87,11 +96,20 @@
       <option name="project" value="LOCAL" />
       <updated>1717833671379</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added ExampleSimple Voids">
+      <option name="closed" value="true" />
+      <created>1717846093228</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717846093228</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added ExampleSimple" />
-    <option name="LAST_COMMIT_MESSAGE" value="added ExampleSimple" />
+    <MESSAGE value="added ExampleSimple Voids" />
+    <option name="LAST_COMMIT_MESSAGE" value="added ExampleSimple Voids" />
   </component>
 </project>
