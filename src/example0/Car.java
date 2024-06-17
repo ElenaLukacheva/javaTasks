@@ -63,7 +63,7 @@ public class Car {
                 ", fuel=" + fuel +
                 '}';
     }
-    
+
 
     public String getModel() {
         return model;

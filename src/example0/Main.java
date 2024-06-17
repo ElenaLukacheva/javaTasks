@@ -4,6 +4,19 @@ import example0.Car;
 
 public class Main {
     public static void main(String[] args) {
+        Lion lion = new Lion();
+        lion.say();
+        lion.hunt();
+        lion.fly();
+        System.out.println(lion.name());
+
+        Panter panter = new Panter();
+        panter.hunt();
+        panter.say();
+        panter.fly();
+        System.out.println("------------------");
+
+
         Car nissan = new Car("Nissan Qashqa", 30);
         nissan.goToRoad();
         nissan.goToRoad();
