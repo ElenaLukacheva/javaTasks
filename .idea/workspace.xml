@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3755f73-85f9-448f-bf23-dd91b2ee8eab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/example0/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example0/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example0/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example0/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,7 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="MAIN_CLASS_NAME" value="example0.Main" />
       <module name="javaTasks" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,12 +105,20 @@
       <option name="project" value="LOCAL" />
       <updated>1717846093228</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added ExampleSimple">
+      <option name="closed" value="true" />
+      <created>1718130859571</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718130859571</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added ExampleSimple" />
     <MESSAGE value="added ExampleSimple Voids" />
-    <option name="LAST_COMMIT_MESSAGE" value="added ExampleSimple Voids" />
+    <MESSAGE value="added ExampleSimple" />
+    <option name="LAST_COMMIT_MESSAGE" value="added ExampleSimple" />
   </component>
 </project>
