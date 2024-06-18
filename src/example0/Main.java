@@ -2,8 +2,47 @@ package example0;
 
 import example0.Car;
 
+import java.util.Arrays;
+
 public class Main {
     public static void main(String[] args) {
+        String[] names = new String[3];
+        names[0] = "Stas";
+        names[1] = "Jhon";
+        names[2] = "Alex";
+        System.out.println(names[0]);
+        System.out.println(Arrays.asList(names));
+
+        String[] names1 = new String[]{"Oleg", "Stas", "Bob"};
+
+        Car[] cars = new Car[3];
+        cars[0] = new Car("Tesla", 60);
+        cars[1] = new Car("Reno", 100);
+        cars[2] = new Car("Honda", 20);
+        System.out.println(Arrays.asList(cars));
+
+        for (int i = 0; i < cars.length; i++) {
+            System.out.println(cars[i]);
+            Car tempCar = cars[i];
+            if (tempCar.getModel().equals("Honda")){
+                System.out.println("Машина найдена");
+                break;
+            }
+            System.out.println(tempCar);
+        }
+        System.out.println(Arrays.asList(cars));
+
+        for (int i = cars.length - 1; i >= 0; i--) {
+            Car tempCar = cars[i];
+           if (tempCar.getModel() == "Tesla"){
+               tempCar.setFuel(0);
+           }
+           }
+        System.out.println(Arrays.toString(cars));
+
+
+        System.out.println("------------------");
+
         Lion lion = new Lion();
         lion.say();
         lion.hunt();
@@ -14,7 +53,7 @@ public class Main {
         panter.hunt();
         panter.say();
         panter.fly();
-        System.out.println("------------------");
+        System.out.println("-----------------");
 
 
         Car nissan = new Car("Nissan Qashqa", 30);
