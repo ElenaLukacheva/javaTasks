@@ -46,4 +46,14 @@ public class CarWithEnum {
         this.color = color;
         this.doorCount = doorCount;
     }
+
+    @Override
+    public String toString() {
+        return "CarWithEnum{" +
+                "carName='" + carName + '\'' +
+                ", type=" + type +
+                ", color='" + color + '\'' +
+                ", doorCount=" + doorCount +
+                '}';
+    }
 }

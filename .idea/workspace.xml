@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3755f73-85f9-448f-bf23-dd91b2ee8eab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/example0/CarWithEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example0/StreamsClassExamlpe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example0/TypeCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example0/HashMapExamle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example0/ListExaple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example0/SetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example0/StreamClassExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example0/CarWithEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example0/CarWithEnum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +42,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Project/demo_ingithub/javaTasks&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ExampleSimple">
+  <component name="RunManager" selected="Application.StreamClassExample">
     <configuration name="ExampleSimple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="example0.ExampleSimple" />
       <module name="javaTasks" />
@@ -54,15 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example0.Main" />
-      <module name="javaTasks" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamsClassExamlpe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example0.StreamsClassExamlpe" />
+    <configuration name="HashMapExamle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example0.HashMapExamle" />
       <module name="javaTasks" />
       <extension name="coverage">
         <pattern>
@@ -74,8 +69,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Voids" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example0.Voids" />
+    <configuration name="ListExaple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example0.ListExaple" />
+      <module name="javaTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example0.SetExample" />
+      <module name="javaTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamClassExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example0.StreamClassExample" />
       <module name="javaTasks" />
       <extension name="coverage">
         <pattern>
@@ -89,10 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamClassExample" />
+        <item itemvalue="Application.HashMapExamle" />
+        <item itemvalue="Application.SetExample" />
+        <item itemvalue="Application.ListExaple" />
         <item itemvalue="Application.ExampleSimple" />
-        <item itemvalue="Application.StreamsClassExamlpe" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Voids" />
       </list>
     </recent_temporary>
   </component>
@@ -153,12 +175,21 @@
       <option name="project" value="LOCAL" />
       <updated>1718742811243</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added Enum">
+      <option name="closed" value="true" />
+      <created>1718773895297</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718773895297</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added ExampleSimple Voids" />
     <MESSAGE value="added ExampleSimple" />
-    <option name="LAST_COMMIT_MESSAGE" value="added ExampleSimple" />
+    <MESSAGE value="added Enum" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Enum" />
   </component>
 </project>
