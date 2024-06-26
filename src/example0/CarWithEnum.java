@@ -2,6 +2,8 @@ package example0;
 
 public class CarWithEnum {
 
+    public static Integer counts = 0;
+
     private String carName;
     private TypeCar type;
     private String color;
@@ -45,6 +47,15 @@ public class CarWithEnum {
         this.type = type;
         this.color = color;
         this.doorCount = doorCount;
+        counts++;
+    }
+
+    public static Integer getCounts() {
+        return counts;
+    }
+
+    public static void setCounts(Integer counts) {
+        CarWithEnum.counts = counts;
     }
 
     @Override

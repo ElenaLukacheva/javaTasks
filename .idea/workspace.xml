@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3755f73-85f9-448f-bf23-dd91b2ee8eab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/example0/StreamClass2Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example0/StreamClass3Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task1/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task1/DogsTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task1/Kayot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task1/Shakal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task1/Wolf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example0/ParamsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example0/UserWithParam.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example0/CarWithEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example0/CarWithEnum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,20 +38,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Project/demo_ingithub/javaTasks&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Project/demo_ingithub/javaTasks"
   }
-}</component>
-  <component name="RunManager" selected="Application.StreamClass3Example">
-    <configuration name="HashMapExamle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example0.HashMapExamle" />
+}]]></component>
+  <component name="RunManager" selected="Application.ParamsMain">
+    <configuration name="DogsTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task1.DogsTask" />
       <module name="javaTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="example0.*" />
+          <option name="PATTERN" value="Task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example0.SetExample" />
+    <configuration name="ParamsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example0.ParamsMain" />
       <module name="javaTasks" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ParamsMain" />
+        <item itemvalue="Application.DogsTask" />
         <item itemvalue="Application.StreamClass3Example" />
         <item itemvalue="Application.StreamClass2Example" />
         <item itemvalue="Application.StreamClassExample" />
-        <item itemvalue="Application.HashMapExamle" />
-        <item itemvalue="Application.SetExample" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719054338743</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added Streams">
+      <option name="closed" value="true" />
+      <created>1719069862249</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1719069862249</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -196,6 +210,7 @@
     <MESSAGE value="added ExampleSimple" />
     <MESSAGE value="added Enum" />
     <MESSAGE value="added List Set HasnMap Stream" />
-    <option name="LAST_COMMIT_MESSAGE" value="added List Set HasnMap Stream" />
+    <MESSAGE value="added Streams" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Streams" />
   </component>
 </project>
